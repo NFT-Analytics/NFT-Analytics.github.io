@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d80d921b.css",
-    "main.js": "/static/js/main.827c3a4b.js",
-    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
-    "static/media/4.png": "/static/media/4.f020756e5f94b99ab49c.png",
-    "static/media/3.png": "/static/media/3.f41f15998684da8d44ae.png",
-    "static/media/2.png": "/static/media/2.80912eeda28cd45a7801.png",
-    "static/media/1.png": "/static/media/1.f21bb69075a693c33b94.png",
-    "static/media/nft.png": "/static/media/nft.3971ff100abe0b8a2f92.png",
-    "static/media/logo.png": "/static/media/logo.19c9f22bb0e049bd00ee.png",
-    "static/media/opensea.png": "/static/media/opensea.83997aa461b535b856db.png",
-    "static/media/metamask.png": "/static/media/metamask.6019c6cbfa30e1dd47a9.png",
-    "index.html": "/index.html",
-    "main.d80d921b.css.map": "/static/css/main.d80d921b.css.map",
-    "main.827c3a4b.js.map": "/static/js/main.827c3a4b.js.map",
-    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+    "main.css": "/FrontEnd/static/css/main.d80d921b.css",
+    "main.js": "/FrontEnd/static/js/main.c4ef5be9.js",
+    "static/js/787.22edae46.chunk.js": "/FrontEnd/static/js/787.22edae46.chunk.js",
+    "static/media/4.png": "/FrontEnd/static/media/4.f020756e5f94b99ab49c.png",
+    "static/media/3.png": "/FrontEnd/static/media/3.f41f15998684da8d44ae.png",
+    "static/media/2.png": "/FrontEnd/static/media/2.80912eeda28cd45a7801.png",
+    "static/media/1.png": "/FrontEnd/static/media/1.f21bb69075a693c33b94.png",
+    "static/media/nft.png": "/FrontEnd/static/media/nft.3971ff100abe0b8a2f92.png",
+    "static/media/logo.png": "/FrontEnd/static/media/logo.19c9f22bb0e049bd00ee.png",
+    "static/media/opensea.png": "/FrontEnd/static/media/opensea.83997aa461b535b856db.png",
+    "static/media/metamask.png": "/FrontEnd/static/media/metamask.6019c6cbfa30e1dd47a9.png",
+    "index.html": "/FrontEnd/index.html",
+    "main.d80d921b.css.map": "/FrontEnd/static/css/main.d80d921b.css.map",
+    "main.c4ef5be9.js.map": "/FrontEnd/static/js/main.c4ef5be9.js.map",
+    "787.22edae46.chunk.js.map": "/FrontEnd/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d80d921b.css",
-    "static/js/main.827c3a4b.js"
+    "static/js/main.c4ef5be9.js"
   ]
 }
